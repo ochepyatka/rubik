@@ -209,25 +209,25 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-   background-image: url("https://wlcat.ru/par/files/koshka-pyatnistaya-bengalskaya/koshka-pyatnistaya-bengalskaya_28.jpeg");
+   background-image: url("https://opis-cdn.tinkoffjournal.ru/mercury/10-cats-mem.lvjj8lt6npax..gif");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/china.jpg");
+  background-image: url("https://opis-cdn.tinkoffjournal.ru/mercury/07-cats-mem.wuz3ytwagsc7..gif");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="usa"] .content__left {
-  background-image: url("https://wlcat.ru/par/files/koshka-pyatnistaya-bengalskaya/koshka-pyatnistaya-bengalskaya_28.jpeg");
+  background-image: url("https://opis-cdn.tinkoffjournal.ru/mercury/01-cats-mem.cg9l94h5qym2..gif");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="peru"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/peru.jpg");
+  background-image: url("https://opis-cdn.tinkoffjournal.ru/mercury/15-cats-mem.f1iqplvglndz..gif");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
