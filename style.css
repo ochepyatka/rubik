@@ -4,13 +4,6 @@ body {
   padding: 0;
   margin: 0;
 }
-<style>
-  body {
-    background-image: url('https://opis-cdn.tinkoffjournal.ru/mercury/10-cats-mem.lvjj8lt6npax..gif');
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-</style>
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -47,7 +40,7 @@ body {
 }
 .carousel__control a.active:before,
 .carousel__control a.active:hover:before {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-image: url("https://opis-cdn.tinkoffjournal.ru/mercury/10-cats-mem.lvjj8lt6npax..gif");
 }
 .carousel__control a:first-child {
   margin-top: 15px;
