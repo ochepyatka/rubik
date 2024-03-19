@@ -40,7 +40,6 @@ body {
 }
 .carousel__control a.active:before,
 .carousel__control a.active:hover:before {
-  background-image: url("https://wlcat.ru/par/files/koshka-pyatnistaya-bengalskaya/koshka-pyatnistaya-bengalskaya_28.jpeg");
 }
 .carousel__control a:first-child {
   margin-top: 15px;
@@ -210,7 +209,7 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/iceland.jpg");
+   background-image: url("https://wlcat.ru/par/files/koshka-pyatnistaya-bengalskaya/koshka-pyatnistaya-bengalskaya_28.jpeg");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
